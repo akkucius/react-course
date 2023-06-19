@@ -1,3 +1,6 @@
+body{
+    background-color: #ccc;
+}
 .expense-item {
     display: flex;
     justify-content: space-between;
